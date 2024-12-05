@@ -1,0 +1,208 @@
+D:\M5(xml,Ado,Mvc)\Desktop\Project_1281404\Project_1281404\bin\Debug\Batchdata.mdf
+D:\M5(xml,Ado,Mvc)\Desktop\Project_1281404\Project_1281404\bin\Debug\Batchdata_log.ldf
+D:\M5(xml,Ado,Mvc)\Desktop\Project_1281404\Project_1281404\bin\Debug\AddformBatch.resx
+D:\M5(xml,Ado,Mvc)\Desktop\Project_1281404\Project_1281404\bin\Debug\Form1.resx
+D:\M5(xml,Ado,Mvc)\Desktop\Project_1281404\Project_1281404\bin\Debug\AddformBatch.cs
+D:\M5(xml,Ado,Mvc)\Desktop\Project_1281404\Project_1281404\bin\Debug\AddformBatch.Designer.cs
+D:\M5(xml,Ado,Mvc)\Desktop\Project_1281404\Project_1281404\bin\Debug\Form1.cs
+D:\M5(xml,Ado,Mvc)\Desktop\Project_1281404\Project_1281404\bin\Debug\Form1.Designer.cs
+D:\M5(xml,Ado,Mvc)\Desktop\Project_1281404\Project_1281404\bin\Debug\Project_1281404.exe.config
+D:\M5(xml,Ado,Mvc)\Desktop\Project_1281404\Project_1281404\bin\Debug\Project_1281404.exe
+D:\M5(xml,Ado,Mvc)\Desktop\Project_1281404\Project_1281404\bin\Debug\Project_1281404.pdb
+D:\M5(xml,Ado,Mvc)\Desktop\Project_1281404\Project_1281404\obj\Debug\Project_1281404.csproj.AssemblyReference.cache
+D:\M5(xml,Ado,Mvc)\Desktop\Project_1281404\Project_1281404\obj\Debug\Project_1281404.AddformBatch.resources
+D:\M5(xml,Ado,Mvc)\Desktop\Project_1281404\Project_1281404\obj\Debug\Project_1281404.Form1.resources
+D:\M5(xml,Ado,Mvc)\Desktop\Project_1281404\Project_1281404\obj\Debug\Project_1281404.Properties.Resources.resources
+D:\M5(xml,Ado,Mvc)\Desktop\Project_1281404\Project_1281404\obj\Debug\Project_1281404.csproj.GenerateResource.cache
+D:\M5(xml,Ado,Mvc)\Desktop\Project_1281404\Project_1281404\obj\Debug\Project_1281404.csproj.CoreCompileInputs.cache
+D:\M5(xml,Ado,Mvc)\Desktop\Project_1281404\Project_1281404\obj\Debug\Project_1281404.exe
+D:\M5(xml,Ado,Mvc)\Desktop\Project_1281404\Project_1281404\obj\Debug\Project_1281404.pdb
+D:\M5(xml,Ado,Mvc)\Project_1281404\Project_1281404\bin\Debug\AddformBatch.resx
+D:\M5(xml,Ado,Mvc)\Project_1281404\Project_1281404\bin\Debug\Form1.resx
+D:\M5(xml,Ado,Mvc)\Project_1281404\Project_1281404\bin\Debug\AddformBatch.Designer.cs
+D:\M5(xml,Ado,Mvc)\Project_1281404\Project_1281404\bin\Debug\Form1.cs
+D:\M5(xml,Ado,Mvc)\Project_1281404\Project_1281404\bin\Debug\Form1.Designer.cs
+D:\M5(xml,Ado,Mvc)\Project_1281404\Project_1281404\bin\Debug\Batchdata.mdf
+D:\M5(xml,Ado,Mvc)\Project_1281404\Project_1281404\bin\Debug\Batchdata_log.ldf
+D:\M5(xml,Ado,Mvc)\Project_1281404\Project_1281404\bin\Debug\AddformBatch.cs
+D:\M5(xml,Ado,Mvc)\Project_1281404\Project_1281404\bin\Debug\Project_1281404.exe.config
+D:\M5(xml,Ado,Mvc)\Project_1281404\Project_1281404\bin\Debug\Project_1281404.exe
+D:\M5(xml,Ado,Mvc)\Project_1281404\Project_1281404\bin\Debug\Project_1281404.pdb
+D:\M5(xml,Ado,Mvc)\Project_1281404\Project_1281404\obj\Debug\Project_1281404.csproj.AssemblyReference.cache
+D:\M5(xml,Ado,Mvc)\Project_1281404\Project_1281404\obj\Debug\Project_1281404.AddformBatch.resources
+D:\M5(xml,Ado,Mvc)\Project_1281404\Project_1281404\obj\Debug\Project_1281404.Form1.resources
+D:\M5(xml,Ado,Mvc)\Project_1281404\Project_1281404\obj\Debug\Project_1281404.Properties.Resources.resources
+D:\M5(xml,Ado,Mvc)\Project_1281404\Project_1281404\obj\Debug\Project_1281404.csproj.GenerateResource.cache
+D:\M5(xml,Ado,Mvc)\Project_1281404\Project_1281404\obj\Debug\Project_1281404.csproj.CoreCompileInputs.cache
+D:\M5(xml,Ado,Mvc)\Project_1281404\Project_1281404\obj\Debug\Project_1281404.exe
+D:\M5(xml,Ado,Mvc)\Project_1281404\Project_1281404\obj\Debug\Project_1281404.pdb
+D:\New folder\New folder\Project_1281404\Project_1281404\bin\Debug\Batchdata.mdf
+D:\New folder\New folder\Project_1281404\Project_1281404\bin\Debug\Batchdata_log.ldf
+D:\New folder\New folder\Project_1281404\Project_1281404\bin\Debug\AddformBatch.resx
+D:\New folder\New folder\Project_1281404\Project_1281404\bin\Debug\AddformBatch.Designer.cs
+D:\New folder\New folder\Project_1281404\Project_1281404\bin\Debug\Form1.resx
+D:\New folder\New folder\Project_1281404\Project_1281404\bin\Debug\AddformBatch.cs
+D:\New folder\New folder\Project_1281404\Project_1281404\bin\Debug\Form1.cs
+D:\New folder\New folder\Project_1281404\Project_1281404\bin\Debug\Form1.Designer.cs
+D:\New folder\New folder\Project_1281404\Project_1281404\bin\Debug\Project_1281404.exe.config
+D:\New folder\New folder\Project_1281404\Project_1281404\bin\Debug\Project_1281404.exe
+D:\New folder\New folder\Project_1281404\Project_1281404\bin\Debug\Project_1281404.pdb
+D:\New folder\New folder\Project_1281404\Project_1281404\obj\Debug\Project_1281404.csproj.AssemblyReference.cache
+D:\New folder\New folder\Project_1281404\Project_1281404\obj\Debug\Project_1281404.AddformBatch.resources
+D:\New folder\New folder\Project_1281404\Project_1281404\obj\Debug\Project_1281404.Form1.resources
+D:\New folder\New folder\Project_1281404\Project_1281404\obj\Debug\Project_1281404.Properties.Resources.resources
+D:\New folder\New folder\Project_1281404\Project_1281404\obj\Debug\Project_1281404.csproj.GenerateResource.cache
+D:\New folder\New folder\Project_1281404\Project_1281404\obj\Debug\Project_1281404.csproj.CoreCompileInputs.cache
+D:\New folder\New folder\Project_1281404\Project_1281404\obj\Debug\Project_1281404.exe
+D:\New folder\New folder\Project_1281404\Project_1281404\obj\Debug\Project_1281404.pdb
+D:\New folder\final ado\Project_1281404\Project_1281404\bin\Debug\AddformBatch.resx
+D:\New folder\final ado\Project_1281404\Project_1281404\bin\Debug\Form1.resx
+D:\New folder\final ado\Project_1281404\Project_1281404\bin\Debug\AddformBatch.Designer.cs
+D:\New folder\final ado\Project_1281404\Project_1281404\bin\Debug\Form1.cs
+D:\New folder\final ado\Project_1281404\Project_1281404\bin\Debug\Form1.Designer.cs
+D:\New folder\final ado\Project_1281404\Project_1281404\bin\Debug\Batchdata.mdf
+D:\New folder\final ado\Project_1281404\Project_1281404\bin\Debug\Batchdata_log.ldf
+D:\New folder\final ado\Project_1281404\Project_1281404\bin\Debug\AddformBatch.cs
+D:\New folder\final ado\Project_1281404\Project_1281404\bin\Debug\Project_1281404.exe.config
+D:\New folder\final ado\Project_1281404\Project_1281404\bin\Debug\Project_1281404.exe
+D:\New folder\final ado\Project_1281404\Project_1281404\bin\Debug\Project_1281404.pdb
+D:\New folder\final ado\Project_1281404\Project_1281404\obj\Debug\Project_1281404.csproj.AssemblyReference.cache
+D:\New folder\final ado\Project_1281404\Project_1281404\obj\Debug\Project_1281404.AddformBatch.resources
+D:\New folder\final ado\Project_1281404\Project_1281404\obj\Debug\Project_1281404.Form1.resources
+D:\New folder\final ado\Project_1281404\Project_1281404\obj\Debug\Project_1281404.Properties.Resources.resources
+D:\New folder\final ado\Project_1281404\Project_1281404\obj\Debug\Project_1281404.csproj.GenerateResource.cache
+D:\New folder\final ado\Project_1281404\Project_1281404\obj\Debug\Project_1281404.csproj.CoreCompileInputs.cache
+D:\New folder\final ado\Project_1281404\Project_1281404\obj\Debug\Project_1281404.exe
+D:\New folder\final ado\Project_1281404\Project_1281404\obj\Debug\Project_1281404.pdb
+\\LAB104-14\Shared\ADO Project\Project_1281404\Project_1281404\bin\Debug\Batchdata.mdf
+\\LAB104-14\Shared\ADO Project\Project_1281404\Project_1281404\bin\Debug\Batchdata_log.ldf
+\\LAB104-14\Shared\ADO Project\Project_1281404\Project_1281404\bin\Debug\AddformBatch.resx
+\\LAB104-14\Shared\ADO Project\Project_1281404\Project_1281404\bin\Debug\Form1.resx
+\\LAB104-14\Shared\ADO Project\Project_1281404\Project_1281404\bin\Debug\AddformBatch.cs
+\\LAB104-14\Shared\ADO Project\Project_1281404\Project_1281404\bin\Debug\AddformBatch.Designer.cs
+\\LAB104-14\Shared\ADO Project\Project_1281404\Project_1281404\bin\Debug\Form1.cs
+\\LAB104-14\Shared\ADO Project\Project_1281404\Project_1281404\bin\Debug\Form1.Designer.cs
+\\LAB104-14\Shared\ADO Project\Project_1281404\Project_1281404\bin\Debug\Project_1281404.exe.config
+\\LAB104-14\Shared\ADO Project\Project_1281404\Project_1281404\bin\Debug\Project_1281404.exe
+\\LAB104-14\Shared\ADO Project\Project_1281404\Project_1281404\bin\Debug\Project_1281404.pdb
+\\LAB104-14\Shared\ADO Project\Project_1281404\Project_1281404\obj\Debug\Project_1281404.csproj.AssemblyReference.cache
+\\LAB104-14\Shared\ADO Project\Project_1281404\Project_1281404\obj\Debug\Project_1281404.AddformBatch.resources
+\\LAB104-14\Shared\ADO Project\Project_1281404\Project_1281404\obj\Debug\Project_1281404.Form1.resources
+\\LAB104-14\Shared\ADO Project\Project_1281404\Project_1281404\obj\Debug\Project_1281404.Properties.Resources.resources
+\\LAB104-14\Shared\ADO Project\Project_1281404\Project_1281404\obj\Debug\Project_1281404.csproj.GenerateResource.cache
+\\LAB104-14\Shared\ADO Project\Project_1281404\Project_1281404\obj\Debug\Project_1281404.csproj.CoreCompileInputs.cache
+\\LAB104-14\Shared\ADO Project\Project_1281404\Project_1281404\obj\Debug\Project_1281404.exe
+\\LAB104-14\Shared\ADO Project\Project_1281404\Project_1281404\obj\Debug\Project_1281404.pdb
+D:\R59\M5\Projects\Osman_1281404\Project_1281404\bin\Debug\AddformBatch.resx
+D:\R59\M5\Projects\Osman_1281404\Project_1281404\bin\Debug\AddformBatch.cs
+D:\R59\M5\Projects\Osman_1281404\Project_1281404\bin\Debug\AddformBatch.Designer.cs
+D:\R59\M5\Projects\Osman_1281404\Project_1281404\bin\Debug\Batchdata.mdf
+D:\R59\M5\Projects\Osman_1281404\Project_1281404\bin\Debug\Batchdata_log.ldf
+D:\R59\M5\Projects\Osman_1281404\Project_1281404\bin\Debug\Form1.resx
+D:\R59\M5\Projects\Osman_1281404\Project_1281404\bin\Debug\Form1.cs
+D:\R59\M5\Projects\Osman_1281404\Project_1281404\bin\Debug\Form1.Designer.cs
+D:\R59\M5\Projects\Osman_1281404\Project_1281404\bin\Debug\Project_1281404.exe.config
+D:\R59\M5\Projects\Osman_1281404\Project_1281404\bin\Debug\Project_1281404.exe
+D:\R59\M5\Projects\Osman_1281404\Project_1281404\bin\Debug\Project_1281404.pdb
+D:\R59\M5\Projects\Osman_1281404\Project_1281404\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\R59\M5\Projects\Osman_1281404\Project_1281404\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\R59\M5\Projects\Osman_1281404\Project_1281404\bin\Debug\CrystalDecisions.Shared.dll
+D:\R59\M5\Projects\Osman_1281404\Project_1281404\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\R59\M5\Projects\Osman_1281404\Project_1281404\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\R59\M5\Projects\Osman_1281404\Project_1281404\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\R59\M5\Projects\Osman_1281404\Project_1281404\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\R59\M5\Projects\Osman_1281404\Project_1281404\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\R59\M5\Projects\Osman_1281404\Project_1281404\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\R59\M5\Projects\Osman_1281404\Project_1281404\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\R59\M5\Projects\Osman_1281404\Project_1281404\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\R59\M5\Projects\Osman_1281404\Project_1281404\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\R59\M5\Projects\Osman_1281404\Project_1281404\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\R59\M5\Projects\Osman_1281404\Project_1281404\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\R59\M5\Projects\Osman_1281404\Project_1281404\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\R59\M5\Projects\Osman_1281404\Project_1281404\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\R59\M5\Projects\Osman_1281404\Project_1281404\bin\Debug\stdole.dll
+D:\R59\M5\Projects\Osman_1281404\Project_1281404\obj\Debug\Project_1281404.csproj.AssemblyReference.cache
+D:\R59\M5\Projects\Osman_1281404\Project_1281404\obj\Debug\Project_1281404.AddformBatch.resources
+D:\R59\M5\Projects\Osman_1281404\Project_1281404\obj\Debug\Project_1281404.Form1.resources
+D:\R59\M5\Projects\Osman_1281404\Project_1281404\obj\Debug\Project_1281404.FormReport1.resources
+D:\R59\M5\Projects\Osman_1281404\Project_1281404\obj\Debug\Project_1281404.Properties.Resources.resources
+D:\R59\M5\Projects\Osman_1281404\Project_1281404\obj\Debug\Project_1281404.csproj.GenerateResource.cache
+D:\R59\M5\Projects\Osman_1281404\Project_1281404\obj\Debug\Project_1281404.csproj.CoreCompileInputs.cache
+D:\R59\M5\Projects\Osman_1281404\Project_1281404\obj\Debug\Project_.C2C72B75.Up2Date
+D:\R59\M5\Projects\Osman_1281404\Project_1281404\obj\Debug\Project_1281404.exe
+D:\R59\M5\Projects\Osman_1281404\Project_1281404\obj\Debug\Project_1281404.pdb
+D:\R59\M5\Projects\Osman_1281404\Project_1281404\obj\Debug\Project_1281404.FormReport2.resources
+D:\Osman_1281404\Project_1281404\bin\Debug\Batchdata.mdf
+D:\Osman_1281404\Project_1281404\bin\Debug\Batchdata_log.ldf
+D:\Osman_1281404\Project_1281404\bin\Debug\AddformBatch.resx
+D:\Osman_1281404\Project_1281404\bin\Debug\Form1.resx
+D:\Osman_1281404\Project_1281404\bin\Debug\AddformBatch.cs
+D:\Osman_1281404\Project_1281404\bin\Debug\AddformBatch.Designer.cs
+D:\Osman_1281404\Project_1281404\bin\Debug\Form1.cs
+D:\Osman_1281404\Project_1281404\bin\Debug\Form1.Designer.cs
+D:\Osman_1281404\Project_1281404\bin\Debug\Project_1281404.exe.config
+D:\Osman_1281404\Project_1281404\bin\Debug\Project_1281404.exe
+D:\Osman_1281404\Project_1281404\bin\Debug\Project_1281404.pdb
+D:\Osman_1281404\Project_1281404\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Osman_1281404\Project_1281404\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Osman_1281404\Project_1281404\bin\Debug\CrystalDecisions.Shared.dll
+D:\Osman_1281404\Project_1281404\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Osman_1281404\Project_1281404\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Osman_1281404\Project_1281404\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Osman_1281404\Project_1281404\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Osman_1281404\Project_1281404\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Osman_1281404\Project_1281404\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Osman_1281404\Project_1281404\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Osman_1281404\Project_1281404\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Osman_1281404\Project_1281404\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Osman_1281404\Project_1281404\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Osman_1281404\Project_1281404\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Osman_1281404\Project_1281404\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Osman_1281404\Project_1281404\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Osman_1281404\Project_1281404\bin\Debug\stdole.dll
+D:\Osman_1281404\Project_1281404\obj\Debug\Project_1281404.csproj.AssemblyReference.cache
+D:\Osman_1281404\Project_1281404\obj\Debug\Project_1281404.AddformBatch.resources
+D:\Osman_1281404\Project_1281404\obj\Debug\Project_1281404.Form1.resources
+D:\Osman_1281404\Project_1281404\obj\Debug\Project_1281404.FormReport1.resources
+D:\Osman_1281404\Project_1281404\obj\Debug\Project_1281404.FormReport2.resources
+D:\Osman_1281404\Project_1281404\obj\Debug\Project_1281404.Properties.Resources.resources
+D:\Osman_1281404\Project_1281404\obj\Debug\Project_1281404.csproj.GenerateResource.cache
+D:\Osman_1281404\Project_1281404\obj\Debug\Project_1281404.csproj.CoreCompileInputs.cache
+D:\Osman_1281404\Project_1281404\obj\Debug\Project_1281404.csproj.CopyComplete
+D:\Osman_1281404\Project_1281404\obj\Debug\Project_1281404.exe
+D:\Osman_1281404\Project_1281404\obj\Debug\Project_1281404.pdb
+E:\Projects\ADO\Osman_1281404\Project_1281404\bin\Debug\AddformBatch.resx
+E:\Projects\ADO\Osman_1281404\Project_1281404\bin\Debug\Form1.resx
+E:\Projects\ADO\Osman_1281404\Project_1281404\bin\Debug\AddformBatch.cs
+E:\Projects\ADO\Osman_1281404\Project_1281404\bin\Debug\AddformBatch.Designer.cs
+E:\Projects\ADO\Osman_1281404\Project_1281404\bin\Debug\Form1.cs
+E:\Projects\ADO\Osman_1281404\Project_1281404\bin\Debug\Form1.Designer.cs
+E:\Projects\ADO\Osman_1281404\Project_1281404\bin\Debug\Batchdata.mdf
+E:\Projects\ADO\Osman_1281404\Project_1281404\bin\Debug\Batchdata_log.ldf
+E:\Projects\ADO\Osman_1281404\Project_1281404\bin\Debug\Project_1281404.exe.config
+E:\Projects\ADO\Osman_1281404\Project_1281404\bin\Debug\Project_1281404.exe
+E:\Projects\ADO\Osman_1281404\Project_1281404\bin\Debug\Project_1281404.pdb
+E:\Projects\ADO\Osman_1281404\Project_1281404\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\Projects\ADO\Osman_1281404\Project_1281404\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\Projects\ADO\Osman_1281404\Project_1281404\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\Projects\ADO\Osman_1281404\Project_1281404\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\Projects\ADO\Osman_1281404\Project_1281404\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\Projects\ADO\Osman_1281404\Project_1281404\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\Projects\ADO\Osman_1281404\Project_1281404\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\Projects\ADO\Osman_1281404\Project_1281404\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\Projects\ADO\Osman_1281404\Project_1281404\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\Projects\ADO\Osman_1281404\Project_1281404\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\Projects\ADO\Osman_1281404\Project_1281404\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\Projects\ADO\Osman_1281404\Project_1281404\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\Projects\ADO\Osman_1281404\Project_1281404\bin\Debug\stdole.dll
+E:\Projects\ADO\Osman_1281404\Project_1281404\obj\Debug\Project_1281404.csproj.AssemblyReference.cache
+E:\Projects\ADO\Osman_1281404\Project_1281404\obj\Debug\Project_1281404.AddformBatch.resources
+E:\Projects\ADO\Osman_1281404\Project_1281404\obj\Debug\Project_1281404.Form1.resources
+E:\Projects\ADO\Osman_1281404\Project_1281404\obj\Debug\Project_1281404.FormReport1.resources
+E:\Projects\ADO\Osman_1281404\Project_1281404\obj\Debug\Project_1281404.FormReport2.resources
+E:\Projects\ADO\Osman_1281404\Project_1281404\obj\Debug\Project_1281404.Properties.Resources.resources
+E:\Projects\ADO\Osman_1281404\Project_1281404\obj\Debug\Project_1281404.csproj.GenerateResource.cache
+E:\Projects\ADO\Osman_1281404\Project_1281404\obj\Debug\Project_1281404.csproj.CoreCompileInputs.cache
+E:\Projects\ADO\Osman_1281404\Project_1281404\obj\Debug\Project_.C2C72B75.Up2Date
+E:\Projects\ADO\Osman_1281404\Project_1281404\obj\Debug\Project_1281404.exe
+E:\Projects\ADO\Osman_1281404\Project_1281404\obj\Debug\Project_1281404.pdb
